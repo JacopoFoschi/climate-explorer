@@ -1,0 +1,81 @@
+# Validation schemas for different datasets
+reanalysis-era5-pressure-levels:
+  type: object
+  required:
+    - variable
+    - year
+    - month
+    - day
+    - time
+    - pressure_level
+  properties:
+    variable:
+      type: array
+      items:
+        type: string
+    year:
+      type: array
+      items:
+        type: string
+        pattern: "^[12][0-9]{3}$"
+    month:
+      type: array
+      items:
+        type: string
+        pattern: "^(0?[1-9]|1[0-2])$"
+    day:
+      type: array
+      items:
+        type: string
+        pattern: "^(0?[1-9]|[12][0-9]|3[01])$"
+    time:
+      type: array
+      items:
+        type: string
+        pattern: "^([01]?[0-9]|2[0-3]):[0-5][0-9]$"
+    pressure_level:
+      type: array
+      items:
+        type: string
+    format:
+      type: string
+      enum: [grib, netcdf]
+
+reanalysis-era5-single-levels:
+  type: object
+  required:
+    - variable
+    - year
+    - month
+    - day
+    - time
+  properties:
+    variable:
+      type: array
+      items:
+        type: string
+    year:
+      type: array
+      items:
+        type: string
+        pattern: "^[12][0-9]{3}$"
+    month:
+      type: array
+      items:
+        type: string
+        pattern: "^(0?[1-9]|1[0-2])$"
+    day:
+      type: array
+      items:
+        type: string
+        pattern: "^(0?[1-9]|[12][0-9]|3[01])$"
+    time:
+      type: array
+      items:
+        type: string
+        pattern: "^([01]?[0-9]|2[0-3]):[0-5][0-9]$"
+    format:
+      type: string
+      enum: [grib, netcdf]
+
+# Add more dataset schemas as needed

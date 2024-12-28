@@ -1,0 +1,217 @@
+2024-12-23 11:36:02,761 - copernicus_data_pipeline - ERROR - Error constructing filename: 
+2024-12-23 11:36:02,761 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_data.grib
+2024-12-23 11:36:03,548 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 11:36:03,549 - datapi.legacy_api_client - INFO - Request ID is 0a4eb2eb-7783-43eb-9e4b-d6baf70b80a4
+2024-12-23 11:36:03,818 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 11:36:38,107 - copernicus_data_pipeline - ERROR - Error constructing filename: 
+2024-12-23 11:36:38,108 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_data.grib
+2024-12-23 11:36:38,783 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 11:36:38,784 - datapi.legacy_api_client - INFO - Request ID is 78d626ea-5a4b-4562-b111-dfd437499fc3
+2024-12-23 11:36:38,987 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 11:38:24,891 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 11:38:25,351 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 11:38:25,352 - datapi.legacy_api_client - INFO - Request ID is d1c31b5f-ed40-4761-a4ea-787de686813f
+2024-12-23 11:38:25,560 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 11:38:34,203 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 11:38:34,443 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/6ef78ded46d332ac4b04754833118011.grib
+2024-12-23 11:38:39,281 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 12:08:20,365 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 12:08:20,760 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 12:08:20,761 - datapi.legacy_api_client - INFO - Request ID is 9b7df3fb-f8d5-4406-a785-e5f3307f23ea
+2024-12-23 12:08:20,923 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 12:08:29,993 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 12:08:30,282 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/6ef78ded46d332ac4b04754833118011.grib
+2024-12-23 12:08:35,115 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 12:48:14,413 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 12:48:14,415 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 12:48:14,417 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 12:48:14,418 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 12:48:17,351 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 12:48:17,352 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 12:48:17,354 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 12:48:17,356 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 12:48:17,382 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 12:48:17,738 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 12:48:17,739 - datapi.legacy_api_client - INFO - Request ID is 2005681a-5da4-4687-8be7-5df31314d25b
+2024-12-23 12:48:17,867 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 12:48:26,739 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 12:48:39,694 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 12:48:39,966 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 12:48:56,876 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 12:49:29,134 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:00:12,722 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:02:03,457 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:02:21,903 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 13:02:21,905 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 13:02:21,907 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 13:02:21,908 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 13:02:21,937 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:02:21,938 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:02:22,472 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 13:02:22,473 - datapi.legacy_api_client - INFO - Request ID is 0244b038-0747-4129-a65c-54ebbf99c064
+2024-12-23 13:02:22,596 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 13:02:31,371 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 13:02:36,561 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 13:02:36,930 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 13:02:55,078 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:02:55,082 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:05:04,195 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 13:05:40,055 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 13:05:40,062 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 13:05:40,071 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 13:06:05,194 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:06:31,987 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 13:06:31,988 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 13:06:31,990 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 13:06:31,991 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 13:06:32,031 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:07:00,290 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:07:04,751 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:16:34,707 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:16:34,709 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 13:16:35,227 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 13:16:35,228 - datapi.legacy_api_client - INFO - Request ID is 5d24aada-8ccc-40b8-81ff-dfb707b4204f
+2024-12-23 13:16:35,354 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 13:16:40,667 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 13:16:49,473 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 13:16:49,739 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/6ef78ded46d332ac4b04754833118011.grib
+2024-12-23 13:16:54,387 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240301_1200.grib
+2024-12-23 13:19:29,739 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:19:45,390 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 13:19:45,392 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 13:19:45,394 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 13:19:45,396 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 13:19:45,432 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:19:45,433 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:19:45,790 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 13:19:45,792 - datapi.legacy_api_client - INFO - Request ID is 1320b185-1fda-49f2-ac06-208cd655c83e
+2024-12-23 13:19:45,932 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 13:19:52,419 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 13:19:56,006 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 13:19:56,362 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 13:20:25,520 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:21:13,005 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:40:54,985 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:43:29,170 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:43:34,871 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 13:43:34,872 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 13:43:34,873 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 13:43:34,875 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 13:43:34,906 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 13:43:34,908 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:43:35,418 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 13:43:35,419 - datapi.legacy_api_client - INFO - Request ID is 2fbb78d9-1843-47bc-b128-57010b5f71f1
+2024-12-23 13:43:35,562 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 13:43:44,393 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 13:43:44,707 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 13:44:08,394 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:44:08,398 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 13:58:38,482 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 14:00:02,101 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 14:00:06,367 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 14:00:06,369 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 14:00:06,370 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 14:00:06,373 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 14:00:06,402 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 14:00:06,404 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 14:00:06,829 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 14:00:06,830 - datapi.legacy_api_client - INFO - Request ID is a82165eb-0128-4d04-be4c-624241b8610e
+2024-12-23 14:00:07,075 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 14:00:15,964 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 14:00:21,231 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 14:00:21,623 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 14:00:48,750 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 14:00:48,754 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 14:02:15,974 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 14:02:15,975 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 14:02:15,976 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 14:02:15,977 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 14:02:17,909 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 14:02:17,910 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 14:02:17,912 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 14:02:17,914 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 14:02:17,937 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 14:04:39,640 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 18:08:54,076 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 18:08:54,092 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 18:08:54,094 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 18:08:54,096 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 18:08:54,521 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:40:20,292 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:40:48,178 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 19:40:55,991 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:40:55,993 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:40:55,996 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:40:55,998 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:40:57,581 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:40:57,582 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:40:57,583 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:40:57,585 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:40:57,610 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_925_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:40:58,014 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 19:40:58,015 - datapi.legacy_api_client - INFO - Request ID is 1637d3e5-a5e5-47a9-bcdb-4936b379b2ef
+2024-12-23 19:40:58,201 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 19:41:03,422 - datapi.legacy_api_client - INFO - status has been updated to running
+2024-12-23 19:41:12,113 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 19:41:12,357 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/c15c97685910312efb7448784eed9eab.grib
+2024-12-23 19:41:39,242 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_925_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:41:39,244 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_925_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:43:56,383 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:43:56,384 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:43:56,385 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:43:56,387 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:43:56,406 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_925_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:44:03,045 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:44:03,046 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:44:03,048 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:44:03,049 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:44:03,074 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_925_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:46:05,565 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 19:46:10,142 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:46:10,143 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:46:10,144 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:46:10,146 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:46:10,175 - copernicus_data_pipeline - INFO - Found cached download but it's outdated
+2024-12-23 19:46:10,176 - copernicus_data_pipeline - INFO - Downloading reanalysis-era5-pressure-levels to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:46:10,524 - datapi.legacy_api_client - WARNING - [2024-10-10T00:00:00] From 1 July to 17 November 2024, the final ERA5 product is different to ERA5T due to the correction of [the assimilation of incorrect snow observations on the Alps](https://confluence.ecmwf.int/x/USuXGw)
+2024-12-23 19:46:10,525 - datapi.legacy_api_client - INFO - Request ID is 62141584-1bb3-44e3-9171-5a9205a27956
+2024-12-23 19:46:10,684 - datapi.legacy_api_client - INFO - status has been updated to accepted
+2024-12-23 19:46:19,382 - datapi.legacy_api_client - INFO - status has been updated to successful
+2024-12-23 19:46:19,626 - multiurl.base - INFO - Downloading https://object-store.os-api.cci2.ecmwf.int:443/cci2-prod-cache/b45fdf616352ddebc7e9edd31f0c700a.grib
+2024-12-23 19:46:44,051 - copernicus_data_pipeline - INFO - Successfully downloaded to data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:46:44,054 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:46:48,922 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:46:48,924 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:46:48,925 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:46:48,926 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:46:48,946 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:48:50,736 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-23 19:49:00,740 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-23 19:49:00,742 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-23 19:49:00,743 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-23 19:49:00,745 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-23 19:49:00,766 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
+2024-12-24 09:37:18,954 - datapi.legacy_api_client - INFO - [2024-09-28T00:00:00] **Welcome to the New Climate Data Store (CDS)!** This new system is in its early days of full operations and still undergoing enhancements and fine tuning. Some disruptions are to be expected. Your 
+[feedback](https://jira.ecmwf.int/plugins/servlet/desk/portal/1/create/202) is key to improve the user experience on the new CDS for the benefit of everyone. Thank you.
+2024-12-24 09:37:18,957 - datapi.legacy_api_client - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2024-12-24 09:37:18,962 - datapi.legacy_api_client - INFO - [2024-09-16T00:00:00] Remember that you need to have an ECMWF account to use the new CDS. **Your old CDS credentials will not work in new CDS!**
+2024-12-24 09:37:18,963 - datapi.legacy_api_client - WARNING - [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2024-12-24 09:37:18,983 - copernicus_data_pipeline - INFO - Found valid cached download at data\reanalysis-era5-pressure-levels_geopotential_1000_20240101_0000_0600_1200_1800.grib
